@@ -1,0 +1,23 @@
+{
+  "name": "tubetweet",
+  "version": "1.0.0",
+  "description": "This is my first backend project which is integrated serice of video streaming and tweets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajtejaswee/TubeTweet.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Raj Tejaswee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajtejaswee/TubeTweet/issues"
+  },
+  "homepage": "https://github.com/rajtejaswee/TubeTweet#readme"
+}
