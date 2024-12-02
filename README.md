@@ -1,2 +1,2 @@
-# Backend-NodeJs
-This repo contains materials of Backend which I learnt, practiced while learning it.
+# TubeTweet
+This is a backend project of mine which is an integrated video streaming platform with tweets in it.
